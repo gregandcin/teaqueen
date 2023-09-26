@@ -13,6 +13,9 @@ V1 of the board, aka the Scuffed Edition, uses Kailh Hotswap sockets and Pro Mic
 
 A PCB made by a factory is easier to assemble than handwiring.
 
+## Want to make modifications?
+This PCB uses the [Kiswitch](https://github.com/kiswitch/kiswitch) library as a globally installed pluggin in KiCad 7, so make sure to install that if you want to properly. Otherwise, everything is there for you as local libraries.
+
 ## Future Editions
 A list of potential TODOs:
 
