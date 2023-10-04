@@ -5,5 +5,5 @@
   (lib (name "Switch_Keyboard_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/libs/keyswitch-kicad-library/footprints/Switch_Keyboard_Hybrid.pretty")(options "")(descr ""))
   (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${KIPRJMOD}/libs/keyswitch-kicad-library/footprints/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
-  (lib (name "3dmodels")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty/3dmodels")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
 )
