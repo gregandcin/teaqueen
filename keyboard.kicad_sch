@@ -1661,10 +1661,10 @@
     (property "Reference" "D45" (at 148.59 139.7 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 148.59 142.24 90)
+    (property "Value" "SOD_123" (at 148.59 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 146.05 140.97 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 146.05 140.97 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 146.05 140.97 90)
@@ -1679,8 +1679,11 @@
     (property "JLCPCB Part #" "C258181" (at 146.05 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e29e5b8c-c8ea-436e-b596-928fe36131ed))
-    (pin "2" (uuid a8ae4047-c55b-4c40-ab69-5feffa297038))
+    (property "MPN" "1N914BWS" (at 146.05 140.97 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a31c1471-9cdf-4a2f-98f9-1da40916b143))
+    (pin "2" (uuid 6dfc94a1-4592-4523-ba10-8d66f4bba69a))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -1701,10 +1704,10 @@
     (property "Reference" "D18" (at 114.3 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 114.3 67.31 90)
+    (property "Value" "SOD_123" (at 114.3 67.31 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 111.76 66.04 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 111.76 66.04 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 111.76 66.04 90)
@@ -1719,8 +1722,11 @@
     (property "JLCPCB Part #" "C258181" (at 111.76 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c229305f-1bff-4136-8204-e30b16e8c736))
-    (pin "2" (uuid 1cbd6dfc-e24f-4dd3-bbac-81604b0f3395))
+    (property "MPN" "1N914BWS" (at 111.76 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4119a0ee-c1d8-493b-8f06-2d2cee8abc9e))
+    (pin "2" (uuid 76e39fd3-de80-45a6-b365-eecab7b23c88))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -1758,8 +1764,11 @@
     (property "JLCPCB Part #" "" (at 38.1 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 69ad392d-618e-4cbe-8b5e-351e4bb48efe))
-    (pin "2" (uuid 9e11bb87-4b3d-42ba-b0f8-8bc8c170096b))
+    (property "MPN" "" (at 38.1 171.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f82e481e-9a1c-43b4-9f7f-93e390ea1eee))
+    (pin "2" (uuid bd3be4cc-572e-48b3-b5af-fd007bba0df1))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -1780,10 +1789,10 @@
     (property "Reference" "D24" (at 114.3 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 114.3 83.82 90)
+    (property "Value" "SOD_123" (at 114.3 83.82 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 111.76 82.55 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 111.76 82.55 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 111.76 82.55 90)
@@ -1798,8 +1807,11 @@
     (property "JLCPCB Part #" "C258181" (at 111.76 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e3725b2f-5e6a-45c6-b22f-60ebcbe1208b))
-    (pin "2" (uuid 21f220e2-eed2-468b-9040-f5ec717306b9))
+    (property "MPN" "1N914BWS" (at 111.76 82.55 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 697dedfe-16c5-44fa-872d-421ea2bc586d))
+    (pin "2" (uuid 84220e89-235b-482b-930b-bea990d7476d))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -1837,8 +1849,11 @@
     (property "JLCPCB Part #" "" (at 113.03 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c0f49167-385f-4902-952a-c813a2291e92))
-    (pin "2" (uuid d61f7039-756a-44aa-b067-ba1402ec04f8))
+    (property "MPN" "" (at 113.03 171.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8354a3c3-3cea-4ca8-8a24-78d1e4d532b0))
+    (pin "2" (uuid 4a9a833a-987a-4971-9ae6-19180f04baa7))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -1859,10 +1874,10 @@
     (property "Reference" "D11" (at 100.33 48.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 100.33 50.8 90)
+    (property "Value" "SOD_123" (at 100.33 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 97.79 49.53 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 97.79 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 97.79 49.53 90)
@@ -1877,8 +1892,11 @@
     (property "JLCPCB Part #" "C258181" (at 97.79 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 102afa17-c50b-4a3d-9c9d-80d07763c42e))
-    (pin "2" (uuid 2705bfa8-ab04-455e-b8d0-903b47d6fc6d))
+    (property "MPN" "1N914BWS" (at 97.79 49.53 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 132ea8e4-189e-4b1c-a0ea-a58fdcebaf2c))
+    (pin "2" (uuid 7a696cc5-323f-4ae7-a4cf-ab944a7a2c52))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -1904,10 +1922,10 @@
     (property "Reference" "D32" (at 60.96 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 60.96 125.73 90)
+    (property "Value" "SOD_123" (at 60.96 125.73 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 58.42 124.46 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 58.42 124.46 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 58.42 124.46 90)
@@ -1922,8 +1940,11 @@
     (property "JLCPCB Part #" "C258181" (at 58.42 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3b299c89-6d5f-4a9c-81dc-b67ae54f14de))
-    (pin "2" (uuid 8908c328-88bc-4458-9939-0dbea1e50584))
+    (property "MPN" "1N914BWS" (at 58.42 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e41160ac-071d-49c3-b6be-4eb89dd76ca0))
+    (pin "2" (uuid 62a4ecfb-a74b-49b8-b7ab-7118234fa059))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -1956,8 +1977,11 @@
     (property "JLCPCB Part #" "" (at 62.23 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9c4cee85-7561-468e-a4f7-db4ee34d883b))
-    (pin "2" (uuid cfc9b5ff-c0ee-4841-9f87-984d45a3c15b))
+    (property "MPN" "" (at 62.23 80.01 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9f30be39-1b0d-4f41-b08d-7585ad4b45df))
+    (pin "2" (uuid ca35414c-7b8a-4682-890a-b27d66c47c24))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -1995,8 +2019,11 @@
     (property "JLCPCB Part #" "" (at 68.58 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 461a62df-5f70-433f-8e20-e9ab3ed6d4c7))
-    (pin "2" (uuid 6885519c-cd65-4205-a08d-d3109dce2d23))
+    (property "MPN" "" (at 68.58 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 50d01544-edd8-40c9-8063-f06fb254b296))
+    (pin "2" (uuid 901be6b6-031e-4eb5-970e-593737d5f741))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2029,8 +2056,11 @@
     (property "JLCPCB Part #" "" (at 140.97 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 17ddd9b4-f7c9-4032-b8b9-e2c7546602cf))
-    (pin "2" (uuid 5f5e0d54-0660-4b2d-b66d-088d7c2805fb))
+    (property "MPN" "" (at 140.97 171.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b1c65e93-2189-4ed5-9ea3-14f60e8d0725))
+    (pin "2" (uuid a403c6c7-6d34-4e2a-b912-6a5532f649e3))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2063,8 +2093,11 @@
     (property "JLCPCB Part #" "" (at 99.06 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a8a4079b-04b6-430c-b69b-fcdc814d15df))
-    (pin "2" (uuid c130e27c-41e5-4553-9c09-59e383d16f0f))
+    (property "MPN" "" (at 99.06 171.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 72f21914-34b1-4e41-b3ff-610510c04cdb))
+    (pin "2" (uuid de7ab22f-632a-4b7f-a187-d1891596c414))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2097,8 +2130,11 @@
     (property "JLCPCB Part #" "" (at 38.1 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b9c2ecd8-2e22-4f19-a8c4-c481074254f0))
-    (pin "2" (uuid 2d5f8f66-82ca-449b-be46-2b1b360db86f))
+    (property "MPN" "" (at 38.1 121.92 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 85512f64-0f0d-458c-9d5e-545d0629baf7))
+    (pin "2" (uuid 75d94ba2-a3c9-4bee-a70a-56e20729c8a2))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2119,10 +2155,10 @@
     (property "Reference" "D34" (at 92.71 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 92.71 125.73 90)
+    (property "Value" "SOD_123" (at 92.71 125.73 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 90.17 124.46 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 90.17 124.46 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 90.17 124.46 90)
@@ -2137,8 +2173,11 @@
     (property "JLCPCB Part #" "C258181" (at 90.17 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a274856d-ba6a-4e7f-a6a4-64669f0c7bf3))
-    (pin "2" (uuid 1bd5c204-b317-4c8c-8a63-de39909ab5fe))
+    (property "MPN" "1N914BWS" (at 90.17 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6a650568-6048-4513-889d-8366f7b53b09))
+    (pin "2" (uuid 78683788-4fb7-4136-81b5-b78f48c3449c))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2159,10 +2198,10 @@
     (property "Reference" "D56" (at 92.71 172.72 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 92.71 175.26 90)
+    (property "Value" "SOD_123" (at 92.71 175.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 90.17 173.99 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 90.17 173.99 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 90.17 173.99 90)
@@ -2177,8 +2216,11 @@
     (property "JLCPCB Part #" "C258181" (at 90.17 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 48b8083e-6b14-4b68-9323-d7da4083c240))
-    (pin "2" (uuid 306f5c2d-1ba6-4f63-92cd-2fa0ebcb14d5))
+    (property "MPN" "1N914BWS" (at 90.17 173.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8a7d2ae3-44ed-4b74-9c61-26d053e5414b))
+    (pin "2" (uuid 7e6baec7-19da-4e81-940d-4e79d2eff17b))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2211,8 +2253,11 @@
     (property "JLCPCB Part #" "" (at 92.71 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 10d279cf-57c2-45a1-a6f8-3d3f05681b9d))
-    (pin "2" (uuid 7efb5df0-fd1b-40eb-837f-60878dcab13f))
+    (property "MPN" "" (at 92.71 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid cfcbc0da-0b0d-401f-bb71-f47f8d50f253))
+    (pin "2" (uuid d9165150-14e9-4b8d-b7c8-f1e9b8a6d833))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2238,10 +2283,10 @@
     (property "Reference" "D17" (at 100.33 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 100.33 67.31 90)
+    (property "Value" "SOD_123" (at 100.33 67.31 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 97.79 66.04 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 97.79 66.04 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 97.79 66.04 90)
@@ -2256,8 +2301,11 @@
     (property "JLCPCB Part #" "C258181" (at 97.79 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5fcd55b4-230e-4673-b0ee-215282c882c7))
-    (pin "2" (uuid 91508de9-8017-449e-af62-41721d345222))
+    (property "MPN" "1N914BWS" (at 97.79 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 54563f4e-855d-4592-9c35-7279def641e8))
+    (pin "2" (uuid 0b02d029-47f2-4a4d-a21f-dc06a8372efc))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2295,8 +2343,11 @@
     (property "JLCPCB Part #" "" (at 92.71 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d404e29e-2124-45a5-8e70-505c1a42c9c9))
-    (pin "2" (uuid 514e8e38-9d6d-43b9-8c66-e554fe5565b5))
+    (property "MPN" "" (at 92.71 80.01 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3f10dff2-f716-4355-9353-a312aec43d3b))
+    (pin "2" (uuid a245eba8-b3ae-433e-8efa-4472cfda6fb9))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2334,8 +2385,11 @@
     (property "JLCPCB Part #" "" (at 92.71 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 965eae89-a1ec-4446-b9f6-1b1b7b4dbf9f))
-    (pin "2" (uuid 4e564b4f-1f7d-4e29-85f9-2150db4140db))
+    (property "MPN" "" (at 92.71 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid bd922904-f880-4b90-b91c-ca05150478b2))
+    (pin "2" (uuid 03b5363a-a7a3-48cb-900c-a92326e072a3))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2361,10 +2415,10 @@
     (property "Reference" "D33" (at 76.2 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 76.2 125.73 90)
+    (property "Value" "SOD_123" (at 76.2 125.73 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 73.66 124.46 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 73.66 124.46 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 124.46 90)
@@ -2379,8 +2433,11 @@
     (property "JLCPCB Part #" "C258181" (at 73.66 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fcfa0ae4-7417-48cc-bba6-7c287e7d7831))
-    (pin "2" (uuid afc80c5f-964e-491a-81e8-40d26420e97f))
+    (property "MPN" "1N914BWS" (at 73.66 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c7bea054-eebb-47e2-ab27-19b2071b65bc))
+    (pin "2" (uuid 7e0de2c6-828f-46e2-b2ab-2fe6c24e5036))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2413,8 +2470,11 @@
     (property "JLCPCB Part #" "" (at 99.06 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b5fd214a-6475-4cf0-bf16-aea152d043d9))
-    (pin "2" (uuid 3e073be6-3fdd-4ab8-b2ad-467f74edc023))
+    (property "MPN" "" (at 99.06 138.43 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9cd1bd69-1970-4989-b0c1-10838d8120df))
+    (pin "2" (uuid 2ea4f3fb-622a-4db5-a89d-e72f1abd357d))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2435,10 +2495,10 @@
     (property "Reference" "D2" (at 54.61 31.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 54.61 34.29 90)
+    (property "Value" "SOD_123" (at 54.61 34.29 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 52.07 33.02 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 52.07 33.02 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 52.07 33.02 90)
@@ -2453,8 +2513,11 @@
     (property "JLCPCB Part #" "C258181" (at 52.07 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5169f6bf-c329-400c-9a66-72134648906d))
-    (pin "2" (uuid 52d2fdd5-532b-432b-9820-c2c23016f2c9))
+    (property "MPN" "1N914BWS" (at 52.07 33.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a6eddc40-c06b-4280-b644-62ac499860b9))
+    (pin "2" (uuid 3d2e8787-1d61-4784-a916-87cc1f634659))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2492,8 +2555,11 @@
     (property "JLCPCB Part #" "" (at 127 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9f606ff9-9fc2-45d3-8780-a4ded455ecd7))
-    (pin "2" (uuid 4f8f852c-78e9-43a4-825c-1116c90de904))
+    (property "MPN" "" (at 127 121.92 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b9a108e5-b4f5-404e-970f-746572a4390f))
+    (pin "2" (uuid 393f7352-5020-43a2-82d9-090e14de4da4))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2526,8 +2592,11 @@
     (property "JLCPCB Part #" "" (at 78.74 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 024b1369-974b-485d-b5b9-9f1ef8f24ff1))
-    (pin "2" (uuid 9d13ee40-0c6c-4698-b483-ea8450fdc358))
+    (property "MPN" "" (at 78.74 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 1ba35c25-16d2-4ffa-8fb2-f77ae4134662))
+    (pin "2" (uuid 585acb49-cb22-46ab-89b4-7afe37591a9f))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2553,10 +2622,10 @@
     (property "Reference" "D62" (at 92.71 187.96 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 92.71 190.5 90)
+    (property "Value" "SOD_123" (at 92.71 190.5 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 90.17 189.23 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 90.17 189.23 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 90.17 189.23 90)
@@ -2571,8 +2640,11 @@
     (property "JLCPCB Part #" "C258181" (at 90.17 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fba1433f-96d0-496f-ab3f-861ff21f8a6b))
-    (pin "2" (uuid 37a7dd7c-fee1-4a21-b362-4a1f65e9527b))
+    (property "MPN" "1N914BWS" (at 90.17 189.23 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 67e5d109-b141-4020-af77-1a3220788cf7))
+    (pin "2" (uuid 6f5dfbab-dff4-4602-80f4-e61f9adde538))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2593,10 +2665,10 @@
     (property "Reference" "D38" (at 45.72 139.7 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 45.72 142.24 90)
+    (property "Value" "SOD_123" (at 45.72 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 43.18 140.97 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 43.18 140.97 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 43.18 140.97 90)
@@ -2611,8 +2683,11 @@
     (property "JLCPCB Part #" "C258181" (at 43.18 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ccd6853d-7509-40dc-a8a0-f5d2b2d0436b))
-    (pin "2" (uuid 589f8836-38ba-4fa4-967f-32db6297c14e))
+    (property "MPN" "1N914BWS" (at 43.18 140.97 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 15eb2242-c6c2-4f2a-a55f-310e2536f403))
+    (pin "2" (uuid fe79df7e-0f03-4892-b700-1bc6d3dac42d))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2645,8 +2720,11 @@
     (property "JLCPCB Part #" "" (at 53.34 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f7e02709-229b-4b50-9482-63d6559beee6))
-    (pin "2" (uuid c85fc6ca-ae0b-4e5e-b473-ed8e9e7781b6))
+    (property "MPN" "" (at 53.34 171.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8b077d9f-bf67-4ab4-9bdd-cf39c7183d88))
+    (pin "2" (uuid 64bc9a3d-fe00-4788-9e1d-9d46cc1977cc))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2667,10 +2745,10 @@
     (property "Reference" "D15" (at 69.85 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 69.85 67.31 90)
+    (property "Value" "SOD_123" (at 69.85 67.31 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 67.31 66.04 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 67.31 66.04 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 67.31 66.04 90)
@@ -2685,8 +2763,11 @@
     (property "JLCPCB Part #" "C258181" (at 67.31 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b863de7e-5865-45c1-8dc4-9daf73ddb837))
-    (pin "2" (uuid 785de424-4332-411f-a88e-3dafc2321f85))
+    (property "MPN" "1N914BWS" (at 67.31 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ab42c0b2-1545-4f00-8f3f-91780e083aab))
+    (pin "2" (uuid 943372fc-0893-4a50-a5d7-4d26f052e850))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2724,8 +2805,11 @@
     (property "JLCPCB Part #" "" (at 53.34 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3708cee-9562-4f58-aa4b-e44ea1757f89))
-    (pin "2" (uuid 6c238324-6a3a-40ec-956e-08365b2a363b))
+    (property "MPN" "" (at 53.34 121.92 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 66a1a34a-feb1-42f4-9fef-748bfa435643))
+    (pin "2" (uuid 359b9b53-782a-4fe9-bc1e-53e7271a8572))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2746,10 +2830,10 @@
     (property "Reference" "D26" (at 39.37 96.52 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 39.37 99.06 90)
+    (property "Value" "SOD_123" (at 39.37 99.06 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 36.83 97.79 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 36.83 97.79 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 36.83 97.79 90)
@@ -2764,8 +2848,11 @@
     (property "JLCPCB Part #" "C258181" (at 36.83 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3cc887f-010f-4a7f-9eef-960bbcfc9acb))
-    (pin "2" (uuid e5fbf0ef-9fff-4fc1-a990-83c73626d4fd))
+    (property "MPN" "1N914BWS" (at 36.83 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5e0e98de-d079-4ef1-9bca-b2fac0902725))
+    (pin "2" (uuid 71bf5fbb-dba7-4b57-bdfc-1cf9f45e7d32))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2803,8 +2890,11 @@
     (property "JLCPCB Part #" "" (at 120.65 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4f1f64b0-3165-4cb7-9f1a-805094f89f76))
-    (pin "2" (uuid 87646033-e773-412a-81b3-eb07e29581fc))
+    (property "MPN" "" (at 120.65 80.01 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4d9cbbc8-f1b7-403c-b756-31a07346148e))
+    (pin "2" (uuid 7135293c-72df-44ae-bf04-9f155948a609))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2842,8 +2932,11 @@
     (property "JLCPCB Part #" "" (at 68.58 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 235ff6c1-be2c-4181-9eaa-45acd4dc86d5))
-    (pin "2" (uuid da8c39af-c810-4799-ac02-bf7a15b3dd72))
+    (property "MPN" "" (at 68.58 171.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 558f5c0d-8ed3-4d09-a574-5b33bab63e1b))
+    (pin "2" (uuid be246f45-a23d-4475-bea7-0687aeb9cb4e))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2911,8 +3004,11 @@
     (property "JLCPCB Part #" "" (at 106.68 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f530a1a6-fe3a-4cfe-960a-963f3b49f303))
-    (pin "2" (uuid e27ee5b9-2b7e-4d54-b61d-4cacdc172106))
+    (property "MPN" "" (at 106.68 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 13d3e98b-98a5-4b4a-a145-ff8c2a2ec26f))
+    (pin "2" (uuid d7df5c89-29a4-4b0d-98f4-18504c77434c))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2938,10 +3034,10 @@
     (property "Reference" "D48" (at 76.2 156.21 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 76.2 158.75 90)
+    (property "Value" "SOD_123" (at 76.2 158.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 73.66 157.48 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 73.66 157.48 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 157.48 90)
@@ -2956,8 +3052,11 @@
     (property "JLCPCB Part #" "C258181" (at 73.66 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 20a476a5-6566-4c81-adb8-60a635cefa4f))
-    (pin "2" (uuid 188bdce6-26ec-44cf-a639-c8b6a5c30aed))
+    (property "MPN" "1N914BWS" (at 73.66 157.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 04a49449-77cf-4c0d-bec4-7e1b5d227112))
+    (pin "2" (uuid 291b7df8-77f1-416f-9155-8586312c38d1))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -2978,10 +3077,10 @@
     (property "Reference" "D49" (at 92.71 156.21 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 92.71 158.75 90)
+    (property "Value" "SOD_123" (at 92.71 158.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 90.17 157.48 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 90.17 157.48 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 90.17 157.48 90)
@@ -2996,8 +3095,11 @@
     (property "JLCPCB Part #" "C258181" (at 90.17 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5cf6a3ca-e8ff-4593-a92d-30dde7cc281d))
-    (pin "2" (uuid 0936c910-8703-43c7-a1e0-79b337d34437))
+    (property "MPN" "1N914BWS" (at 90.17 157.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9bfbe088-29bb-475e-a4f8-5729719f9277))
+    (pin "2" (uuid 4ea63b1a-fa4c-45cb-913b-15c82716cd05))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3018,10 +3120,10 @@
     (property "Reference" "D31" (at 45.72 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 45.72 125.73 90)
+    (property "Value" "SOD_123" (at 45.72 125.73 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 43.18 124.46 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 43.18 124.46 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 43.18 124.46 90)
@@ -3036,8 +3138,11 @@
     (property "JLCPCB Part #" "C258181" (at 43.18 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 46763869-6c5d-4e18-9338-ff97e8e1bdb8))
-    (pin "2" (uuid 2b13bb09-6026-453f-ac1f-bcdb42aee75f))
+    (property "MPN" "1N914BWS" (at 43.18 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6610aa12-9afc-43c3-8b57-5bb729525066))
+    (pin "2" (uuid 803ab296-1d34-459d-8f39-491d01f689c5))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3058,10 +3163,10 @@
     (property "Reference" "D36" (at 120.65 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 120.65 125.73 90)
+    (property "Value" "SOD_123" (at 120.65 125.73 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 118.11 124.46 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 118.11 124.46 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 118.11 124.46 90)
@@ -3076,8 +3181,11 @@
     (property "JLCPCB Part #" "C258181" (at 118.11 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c91f21d1-8afc-4774-a63e-742f8b3e029c))
-    (pin "2" (uuid 8de14366-b39e-438a-b63f-2546474c428a))
+    (property "MPN" "1N914BWS" (at 118.11 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 881cf4ba-c39e-486f-a36a-482c34ceb6db))
+    (pin "2" (uuid b54563e9-35f6-4dc7-9816-2cf00c0cfa8d))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3098,10 +3206,10 @@
     (property "Reference" "D59" (at 134.62 172.72 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 134.62 175.26 90)
+    (property "Value" "SOD_123" (at 134.62 175.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 132.08 173.99 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 132.08 173.99 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.08 173.99 90)
@@ -3116,8 +3224,11 @@
     (property "JLCPCB Part #" "C258181" (at 132.08 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a88292d5-7780-4f72-91b4-dc5995fc15a5))
-    (pin "2" (uuid f5383dd5-01db-42ef-8516-2292d3b8009d))
+    (property "MPN" "1N914BWS" (at 132.08 173.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0107dd67-c2a5-4656-9358-443d120314f2))
+    (pin "2" (uuid 4dc04b73-aa80-4f92-b551-d73497c42eab))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3180,8 +3291,11 @@
     (property "JLCPCB Part #" "" (at 106.68 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ffe450d5-5ed9-41de-bad6-1b6696ec5e23))
-    (pin "2" (uuid fddd2e4a-0b5d-4963-bd19-2dd6a92cf4be))
+    (property "MPN" "" (at 106.68 80.01 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c516ccea-e7bb-43a2-a2cc-b809e89f32b3))
+    (pin "2" (uuid 88333ffc-e995-497a-a619-e38ab444c453))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3207,10 +3321,10 @@
     (property "Reference" "D40" (at 76.2 139.7 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 76.2 142.24 90)
+    (property "Value" "SOD_123" (at 76.2 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 73.66 140.97 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 73.66 140.97 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 140.97 90)
@@ -3225,8 +3339,11 @@
     (property "JLCPCB Part #" "C258181" (at 73.66 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b128bd38-bc06-4351-8bdc-35e6d8217d9b))
-    (pin "2" (uuid 4e2ed9ff-bfe7-4fdd-8c5b-59c5ef3733a9))
+    (property "MPN" "1N914BWS" (at 73.66 140.97 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 552f9c35-8bd9-4fe1-95e4-b3cc075bacbe))
+    (pin "2" (uuid d253a05a-1879-4e86-afc9-b8af2701ee3c))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3247,10 +3364,10 @@
     (property "Reference" "D21" (at 69.85 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 69.85 83.82 90)
+    (property "Value" "SOD_123" (at 69.85 83.82 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 67.31 82.55 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 67.31 82.55 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 67.31 82.55 90)
@@ -3265,8 +3382,11 @@
     (property "JLCPCB Part #" "C258181" (at 67.31 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d935e4e2-8af9-4da1-b7d7-a13b1944219d))
-    (pin "2" (uuid aa2671bf-eed3-4103-bac4-bc1899a993d0))
+    (property "MPN" "1N914BWS" (at 67.31 82.55 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2eca694e-c48e-4aa1-934f-7de45a33ce8d))
+    (pin "2" (uuid 146a38e4-e446-4bba-8e6d-3dcae6aad45f))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3304,8 +3424,11 @@
     (property "JLCPCB Part #" "" (at 85.09 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid be27c5e8-a922-4bb8-ae23-4baf525eb567))
-    (pin "2" (uuid 2610ef40-708f-4e85-8b95-e86a40214951))
+    (property "MPN" "" (at 85.09 121.92 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ae6814cc-c234-4bdf-a4fb-c9f9cb29abe3))
+    (pin "2" (uuid 0f63c54e-1712-41cc-b164-142f534a30a0))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3338,8 +3461,11 @@
     (property "JLCPCB Part #" "" (at 78.74 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9cce17de-4fde-430e-bae4-66816fb2b0a8))
-    (pin "2" (uuid 1e01e5f3-aae8-4287-844a-7471c9f01810))
+    (property "MPN" "" (at 78.74 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 96c7eb46-b1b2-417a-ac3f-ecfcc284339d))
+    (pin "2" (uuid 1ef603b7-199e-420e-ad66-2bc94cd3ff40))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3365,10 +3491,10 @@
     (property "Reference" "D25" (at 128.27 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 128.27 83.82 90)
+    (property "Value" "SOD_123" (at 128.27 83.82 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 125.73 82.55 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 125.73 82.55 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 125.73 82.55 90)
@@ -3383,8 +3509,11 @@
     (property "JLCPCB Part #" "C258181" (at 125.73 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c180b127-705d-4677-a742-74a6935d3b2b))
-    (pin "2" (uuid 6680cc75-0e01-4ff8-a29c-e60cb312d8aa))
+    (property "MPN" "1N914BWS" (at 125.73 82.55 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8053f761-fa47-4c2f-b4bd-52a799417a2b))
+    (pin "2" (uuid de5f5576-d85f-4602-8fe1-77b14a92b17b))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3422,8 +3551,11 @@
     (property "JLCPCB Part #" "" (at 62.23 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3ce919f-306a-4b64-b153-bd4a2d900515))
-    (pin "2" (uuid 674445b4-2da8-4b48-bae1-829269249527))
+    (property "MPN" "" (at 62.23 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 72d4fd67-5ff0-4414-8af0-b46068ec4825))
+    (pin "2" (uuid 06a7d0ff-5b1c-4ab0-9a7f-faaec7aa90d9))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3461,8 +3593,11 @@
     (property "JLCPCB Part #" "" (at 140.97 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7a62c93b-8351-4eb2-84ad-81a3b49aac33))
-    (pin "2" (uuid 2037f0ee-817b-4125-88b4-989a9d317b9d))
+    (property "MPN" "" (at 140.97 138.43 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8fc5cad7-79fb-492a-881f-5227d336f814))
+    (pin "2" (uuid 788fe61e-7116-4c2c-a015-0e0e11cb3bd9))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3483,10 +3618,10 @@
     (property "Reference" "D30" (at 128.27 96.52 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 128.27 99.06 90)
+    (property "Value" "SOD_123" (at 128.27 99.06 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 125.73 97.79 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 125.73 97.79 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 125.73 97.79 90)
@@ -3501,8 +3636,11 @@
     (property "JLCPCB Part #" "C258181" (at 125.73 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2fdbd152-9fa3-4e9e-a42e-1514b5a38f65))
-    (pin "2" (uuid 3da6a232-b8dc-4eb3-94e8-b09ed6c9634c))
+    (property "MPN" "1N914BWS" (at 125.73 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7bad6a0b-9b01-4386-a57b-0614f390ddfe))
+    (pin "2" (uuid bc267a0a-8e95-43f9-867b-794649769e7b))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3540,8 +3678,11 @@
     (property "JLCPCB Part #" "" (at 85.09 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 36c4836e-e169-470d-8fb1-af9a192910a8))
-    (pin "2" (uuid a4d9e887-cde2-4657-af91-422faad4f379))
+    (property "MPN" "" (at 85.09 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a2ea7e4a-5b81-45bd-8b09-edaa848085a6))
+    (pin "2" (uuid b2226e2e-24a4-4bb9-9914-eab8328c30c3))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3574,8 +3715,11 @@
     (property "JLCPCB Part #" "" (at 127 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1e5bdb9c-41d6-4397-98c3-ec4b1087e947))
-    (pin "2" (uuid cd7198cf-d887-497e-b656-2f9a5bae7a1d))
+    (property "MPN" "" (at 127 171.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 1252020f-630f-4f40-89bc-27a7704742c6))
+    (pin "2" (uuid 533be001-828e-429f-b36d-8f9cc469547a))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3596,10 +3740,10 @@
     (property "Reference" "D50" (at 106.68 156.21 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 106.68 158.75 90)
+    (property "Value" "SOD_123" (at 106.68 158.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 104.14 157.48 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 104.14 157.48 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 104.14 157.48 90)
@@ -3614,8 +3758,11 @@
     (property "JLCPCB Part #" "C258181" (at 104.14 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a9408f02-2d59-4300-a7a7-1e9fa76b5624))
-    (pin "2" (uuid f4635eaf-2645-4d2e-8f21-f972e98c3939))
+    (property "MPN" "1N914BWS" (at 104.14 157.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 16142df0-6bc3-4470-aba7-c28dd34a08fa))
+    (pin "2" (uuid 54d3ba1d-7554-4840-be61-4ab206d8463e))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3648,8 +3795,11 @@
     (property "JLCPCB Part #" "" (at 31.75 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6613b6ec-9044-41f9-9efd-f5a2fcc07c2d))
-    (pin "2" (uuid 608d6dbb-c095-45a4-8fdd-5c1e08eb72bc))
+    (property "MPN" "" (at 31.75 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid cbe8ec59-e07d-4336-b430-cdab74441b6f))
+    (pin "2" (uuid 94b93961-a50d-4bd6-871a-414ba288ac5f))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3687,8 +3837,11 @@
     (property "JLCPCB Part #" "" (at 38.1 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5fad27b0-d205-4909-bf3a-005342c92120))
-    (pin "2" (uuid a27bbc4d-1e7a-4114-83ac-d94eb2967253))
+    (property "MPN" "" (at 38.1 138.43 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d481f598-685f-4788-9a5e-5f680a837e1a))
+    (pin "2" (uuid 25e9ac7c-3ed5-424a-b05d-127ea9bff8f5))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3721,8 +3874,11 @@
     (property "JLCPCB Part #" "" (at 99.06 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3d05024b-bfe4-4dd3-8abd-100e45122334))
-    (pin "2" (uuid efc02cee-50ab-4fc0-8e33-0502e0bc7d8f))
+    (property "MPN" "" (at 99.06 121.92 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f2cfdf25-5b71-4916-9526-1bd8d42e9692))
+    (pin "2" (uuid 2cb68872-0019-4e2d-9843-e4e9e303c6c3))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3755,8 +3911,11 @@
     (property "JLCPCB Part #" "" (at 31.75 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9f32a961-1db9-4ff0-acf9-40924fd9e741))
-    (pin "2" (uuid 166b6d60-e2e4-4763-9e3f-0f5c949fafa6))
+    (property "MPN" "" (at 31.75 63.5 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 113745b4-8e02-487e-9b3a-b753c4c8b491))
+    (pin "2" (uuid a1bd65d3-831d-47a7-80eb-8ed746013930))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3782,10 +3941,10 @@
     (property "Reference" "D61" (at 60.96 187.96 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 60.96 190.5 90)
+    (property "Value" "SOD_123" (at 60.96 190.5 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 58.42 189.23 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 58.42 189.23 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 58.42 189.23 90)
@@ -3800,8 +3959,11 @@
     (property "JLCPCB Part #" "C258181" (at 58.42 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 995b9d87-2c30-4c31-aea1-d13ee0acfb80))
-    (pin "2" (uuid e342179d-736c-4dac-aea1-3cc51fc8a462))
+    (property "MPN" "1N914BWS" (at 58.42 189.23 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6f092abc-59a6-46d3-aa70-1d744778b54c))
+    (pin "2" (uuid f768923f-91bb-4839-a93c-e8f2e754f5cc))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3834,8 +3996,11 @@
     (property "JLCPCB Part #" "" (at 78.74 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e40973e8-b693-4269-8e4e-5fd5eadc97e4))
-    (pin "2" (uuid 90a2364f-fea2-4c89-bf7f-84e901e096fb))
+    (property "MPN" "" (at 78.74 80.01 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid df7224db-ec51-4aa5-ad16-0d4cf5fd421b))
+    (pin "2" (uuid 9263f766-6e6d-4023-9502-ce522b0906df))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3861,10 +4026,10 @@
     (property "Reference" "D20" (at 39.37 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 39.37 83.82 90)
+    (property "Value" "SOD_123" (at 39.37 83.82 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 36.83 82.55 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 36.83 82.55 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 36.83 82.55 90)
@@ -3879,8 +4044,11 @@
     (property "JLCPCB Part #" "C258181" (at 36.83 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 89806442-5407-4373-89c3-fb24996a1cee))
-    (pin "2" (uuid 7cb00566-a9a1-4df4-846a-de5d6d4bed2d))
+    (property "MPN" "1N914BWS" (at 36.83 82.55 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5bad4892-8eac-49bc-9f65-a9328484423b))
+    (pin "2" (uuid 45608e62-39a4-4a2f-9716-630798a1ae24))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3906,10 +4074,10 @@
     (property "Reference" "D64" (at 148.59 187.96 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 148.59 190.5 90)
+    (property "Value" "SOD_123" (at 148.59 190.5 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 146.05 189.23 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 146.05 189.23 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 146.05 189.23 90)
@@ -3924,8 +4092,11 @@
     (property "JLCPCB Part #" "C258181" (at 146.05 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 97783f94-2f91-4902-858e-1136c89f6d4a))
-    (pin "2" (uuid 8aaf3486-2d7d-49d8-a7ba-a31a117e2909))
+    (property "MPN" "1N914BWS" (at 146.05 189.23 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4fe36fe4-db36-43bb-acbd-87f99c0f1e18))
+    (pin "2" (uuid 281b14e4-d036-4235-afca-3b149563a080))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3946,10 +4117,10 @@
     (property "Reference" "D1" (at 39.37 31.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 39.37 34.29 90)
+    (property "Value" "SOD_123" (at 39.37 34.29 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 36.83 33.02 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 36.83 33.02 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 36.83 33.02 90)
@@ -3964,8 +4135,11 @@
     (property "JLCPCB Part #" "C258181" (at 36.83 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2f2b2a99-64f9-4ebf-ba88-c1e63a693dd2))
-    (pin "2" (uuid 91ddc000-7ce0-48c4-bd9e-bcfc3b357260))
+    (property "MPN" "1N914BWS" (at 36.83 33.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4c6a86cc-de55-46c8-aa19-0c98b0501ccf))
+    (pin "2" (uuid 5cd167ff-829b-4ae7-80d9-ab59eaa64568))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -3991,10 +4165,10 @@
     (property "Reference" "D39" (at 60.96 139.7 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 60.96 142.24 90)
+    (property "Value" "SOD_123" (at 60.96 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 58.42 140.97 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 58.42 140.97 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 58.42 140.97 90)
@@ -4009,8 +4183,11 @@
     (property "JLCPCB Part #" "C258181" (at 58.42 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 64da2354-c650-45a5-9889-820c2a0dd8ca))
-    (pin "2" (uuid 35e8a95f-f5ca-46b1-8624-6e9f9cf1389b))
+    (property "MPN" "1N914BWS" (at 58.42 140.97 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8b08ac2a-6c2d-415f-a2c9-3f46ceb6248f))
+    (pin "2" (uuid 3cd5450a-8fbf-4dad-8439-b48716296e89))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4031,10 +4208,10 @@
     (property "Reference" "D10" (at 86.36 48.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 86.36 50.8 90)
+    (property "Value" "SOD_123" (at 86.36 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 83.82 49.53 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 83.82 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 49.53 90)
@@ -4049,8 +4226,11 @@
     (property "JLCPCB Part #" "C258181" (at 83.82 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cf54c874-50d8-4d49-ba14-956b8a733148))
-    (pin "2" (uuid 9aa6222f-20ef-4734-b9c4-d2e27078c268))
+    (property "MPN" "1N914BWS" (at 83.82 49.53 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 82d58946-dc8b-43ab-8139-f456603aad62))
+    (pin "2" (uuid b3fe5dc0-dcc8-4db9-8958-58972666b380))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4076,10 +4256,10 @@
     (property "Reference" "D58" (at 120.65 172.72 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 120.65 175.26 90)
+    (property "Value" "SOD_123" (at 120.65 175.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 118.11 173.99 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 118.11 173.99 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 118.11 173.99 90)
@@ -4094,8 +4274,11 @@
     (property "JLCPCB Part #" "C258181" (at 118.11 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5c0b3e52-39db-4232-baa9-cd503893ef39))
-    (pin "2" (uuid ee8a1ee2-9f35-41e9-800b-e223c8a01fab))
+    (property "MPN" "1N914BWS" (at 118.11 173.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a2fad45d-39a3-40cf-9818-d4edbcb834fe))
+    (pin "2" (uuid 1fe24030-5730-4f84-beba-7d7964e284eb))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4128,8 +4311,11 @@
     (property "JLCPCB Part #" "" (at 140.97 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2885a812-58b9-45d3-8c84-76ec1a78c8a3))
-    (pin "2" (uuid 65f16c0d-1056-4170-9808-765c9da3f462))
+    (property "MPN" "" (at 140.97 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fe5a3ab9-8934-48ec-ab36-478dfa18e584))
+    (pin "2" (uuid f7a9264a-8859-4708-9c9b-e663b2fd1e9f))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4162,8 +4348,11 @@
     (property "JLCPCB Part #" "" (at 46.99 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9376f4de-ab0c-455f-bd26-b66c832f4e49))
-    (pin "2" (uuid 478e6979-dd54-4c3a-9b51-aca0b2dc282f))
+    (property "MPN" "" (at 46.99 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid adabf70e-5f2b-40a6-a775-a70517bce90e))
+    (pin "2" (uuid acc31b1c-6292-4690-a5e5-dca659fcb912))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4189,10 +4378,10 @@
     (property "Reference" "D7" (at 128.27 31.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 128.27 34.29 90)
+    (property "Value" "SOD_123" (at 128.27 34.29 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 125.73 33.02 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 125.73 33.02 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 125.73 33.02 90)
@@ -4207,8 +4396,11 @@
     (property "JLCPCB Part #" "C258181" (at 125.73 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ea575714-ce3c-480b-9f2a-a5ce3385cc66))
-    (pin "2" (uuid c5bee730-5558-4328-98b4-f053253fa057))
+    (property "MPN" "1N914BWS" (at 125.73 33.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 03348e99-8f76-447b-b361-16d9e7d1909e))
+    (pin "2" (uuid 628ffb16-63d9-4596-a8c8-7000293fde28))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4234,10 +4426,10 @@
     (property "Reference" "D29" (at 114.3 96.52 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 114.3 99.06 90)
+    (property "Value" "SOD_123" (at 114.3 99.06 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 111.76 97.79 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 111.76 97.79 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 111.76 97.79 90)
@@ -4252,8 +4444,11 @@
     (property "JLCPCB Part #" "C258181" (at 111.76 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 500fc53c-cdcf-4b8b-9b33-528adb3317ab))
-    (pin "2" (uuid 1b1f73c0-af0e-4aa5-b073-bd4aa2487ede))
+    (property "MPN" "1N914BWS" (at 111.76 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d6f564ad-ab78-48da-a0a5-702784a9ec97))
+    (pin "2" (uuid 9faf47d7-67d3-438c-a7f7-15ec6c8355ff))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4279,10 +4474,10 @@
     (property "Reference" "D23" (at 100.33 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 100.33 83.82 90)
+    (property "Value" "SOD_123" (at 100.33 83.82 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 97.79 82.55 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 97.79 82.55 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 97.79 82.55 90)
@@ -4297,8 +4492,11 @@
     (property "JLCPCB Part #" "C258181" (at 97.79 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a291f0f0-5f0e-440e-ad89-04e84488aedb))
-    (pin "2" (uuid a8f3d88f-a5e5-4fb0-9230-432b662e5f2b))
+    (property "MPN" "1N914BWS" (at 97.79 82.55 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 30a120da-0fac-4bcd-a810-a97c1c89c4b6))
+    (pin "2" (uuid 1ee63e15-f3c8-4978-8619-0f63fe4beb86))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4366,8 +4564,11 @@
     (property "JLCPCB Part #" "" (at 127 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5d9efcdf-88f9-428e-93b5-cb02f19cc167))
-    (pin "2" (uuid aa14ae8e-aaf6-4602-ae63-cec17102f156))
+    (property "MPN" "" (at 127 138.43 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7fd11366-96b8-4c36-810d-2430c93a0680))
+    (pin "2" (uuid 2c429515-1309-4faf-b156-879a0670ce65))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4388,10 +4589,10 @@
     (property "Reference" "D13" (at 128.27 48.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 128.27 50.8 90)
+    (property "Value" "SOD_123" (at 128.27 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 125.73 49.53 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 125.73 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 125.73 49.53 90)
@@ -4406,8 +4607,11 @@
     (property "JLCPCB Part #" "C258181" (at 125.73 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1f1031e6-0932-4138-9d51-2bbeeba36b19))
-    (pin "2" (uuid 2bc9b2da-8bf8-43f6-93f2-e52779cf869d))
+    (property "MPN" "1N914BWS" (at 125.73 49.53 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ad388e85-89af-4be7-840a-789321b3b174))
+    (pin "2" (uuid 3814ff4d-b170-4f0f-aac7-45e10cfbafbf))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4445,8 +4649,11 @@
     (property "JLCPCB Part #" "" (at 68.58 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b55f6319-29a9-4bd3-962d-75e7993a39a1))
-    (pin "2" (uuid f172d431-3497-4401-a993-5573c2ac6322))
+    (property "MPN" "" (at 68.58 138.43 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4e3e9bdb-a050-428b-a3ae-73aef05caa25))
+    (pin "2" (uuid ba776826-96b7-48ba-8a23-7829fe613da4))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4479,10 +4686,13 @@
     (property "JLCPCB Part #" "C2884926" (at 195.58 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 625eb5f1-7b1c-4532-a4cf-3a021d7a6902))
-    (pin "2" (uuid db15b7de-2fb6-427d-b637-513f9c4fd4df))
-    (pin "3" (uuid 8fff5471-0b93-48df-af21-4de27c3f448e))
-    (pin "4" (uuid 9a0c3a20-dba1-4d5c-bc8a-548a9cc15280))
+    (property "MPN" "PJ-320A" (at 195.58 142.24 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 80f0370a-5e9c-410c-ba05-fe6d224a6407))
+    (pin "2" (uuid 485084d2-2a4f-4487-80d3-c0d21633a601))
+    (pin "3" (uuid ae2b7cfb-3dfd-4ad0-af77-21b76040f3b8))
+    (pin "4" (uuid 4da722d7-0473-4b8b-b4f7-b7941094532b))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4538,10 +4748,10 @@
     (property "Reference" "D52" (at 148.59 156.21 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 148.59 158.75 90)
+    (property "Value" "SOD_123" (at 148.59 158.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 146.05 157.48 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 146.05 157.48 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 146.05 157.48 90)
@@ -4556,8 +4766,11 @@
     (property "JLCPCB Part #" "C258181" (at 146.05 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7158ae94-821a-4653-95c1-708cada455ec))
-    (pin "2" (uuid f020b6ab-4f08-4d17-a57e-c611a66436b6))
+    (property "MPN" "1N914BWS" (at 146.05 157.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 854e3a8a-3401-49b0-8a14-cbef3c0e8bb7))
+    (pin "2" (uuid 1f2003f3-1270-4330-9fec-2a5f250ea2d9))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4590,8 +4803,11 @@
     (property "JLCPCB Part #" "" (at 106.68 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d1137cc6-7f31-4a17-bd7e-b6d1d4af2a0b))
-    (pin "2" (uuid ac63ae56-7f5b-4511-9a89-46ed00eafad9))
+    (property "MPN" "" (at 106.68 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6311abda-8eb6-4023-8e25-4fa9c71dd305))
+    (pin "2" (uuid e10051ac-2c8b-4488-93b4-12c2b69d4bb9))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4617,10 +4833,10 @@
     (property "Reference" "D27" (at 54.61 96.52 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 54.61 99.06 90)
+    (property "Value" "SOD_123" (at 54.61 99.06 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 52.07 97.79 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 52.07 97.79 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 52.07 97.79 90)
@@ -4635,8 +4851,11 @@
     (property "JLCPCB Part #" "C258181" (at 52.07 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c6fbd92b-ec0d-4c29-800b-446413524a42))
-    (pin "2" (uuid 4e8cca45-a73e-4f6f-af6a-c0828ffba151))
+    (property "MPN" "1N914BWS" (at 52.07 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b52dd11b-d3d4-47c3-b68f-4cb57b75cdba))
+    (pin "2" (uuid ad178514-46bb-4a64-b450-97d2a0e8d789))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4662,10 +4881,10 @@
     (property "Reference" "D51" (at 120.65 156.21 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 120.65 158.75 90)
+    (property "Value" "SOD_123" (at 120.65 158.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 118.11 157.48 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 118.11 157.48 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 118.11 157.48 90)
@@ -4680,8 +4899,11 @@
     (property "JLCPCB Part #" "C258181" (at 118.11 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6b3d9073-3c67-4ee8-b9c0-bfd2f146d79b))
-    (pin "2" (uuid ad22102e-ae79-4a88-a315-66d5b5fed3f1))
+    (property "MPN" "1N914BWS" (at 118.11 157.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9a2b88e6-5384-454c-ab03-19cbdb0aaa0c))
+    (pin "2" (uuid 95432ab0-77dd-4f93-b21f-62754c84c495))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4714,8 +4936,11 @@
     (property "JLCPCB Part #" "" (at 38.1 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2832ddf0-5758-4ecb-867f-e2c8ba3cb5a0))
-    (pin "2" (uuid b14230bc-9ce0-4f3f-9f87-f189ad85d615))
+    (property "MPN" "" (at 38.1 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 357d6549-658a-4577-aae0-34b11fbe5d9e))
+    (pin "2" (uuid d4b7355b-f313-4c0e-84a1-8c8a5f72d45f))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4736,10 +4961,10 @@
     (property "Reference" "D14" (at 39.37 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 39.37 67.31 90)
+    (property "Value" "SOD_123" (at 39.37 67.31 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 36.83 66.04 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 36.83 66.04 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 36.83 66.04 90)
@@ -4754,8 +4979,11 @@
     (property "JLCPCB Part #" "C258181" (at 36.83 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a49e970f-96d7-4808-a654-1c26a85be232))
-    (pin "2" (uuid 88fceac6-9411-4ddf-bc91-2c78347e32fa))
+    (property "MPN" "1N914BWS" (at 36.83 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 623a8dae-8f10-465a-b8cc-ebe95479a56f))
+    (pin "2" (uuid 1530b32b-d649-4761-a43f-634eba04dca9))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4793,8 +5021,11 @@
     (property "JLCPCB Part #" "" (at 68.58 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d7ff421c-972a-4974-a8b3-347846bc5167))
-    (pin "2" (uuid 43002f98-08bb-46c8-bc49-86fad45adf39))
+    (property "MPN" "" (at 68.58 121.92 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d4640241-77ca-4699-8579-24c6f404f1cc))
+    (pin "2" (uuid 9695af3e-a552-4aa4-a38c-dc485240fd47))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4827,8 +5058,11 @@
     (property "JLCPCB Part #" "" (at 31.75 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4b5987e9-1eda-47cd-bae5-b02b3ea63f36))
-    (pin "2" (uuid 792b7d25-1c37-4e70-ba0d-c32a7659def1))
+    (property "MPN" "" (at 31.75 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2c701af2-fde3-4175-8c89-8b6f5dffaad2))
+    (pin "2" (uuid 71591974-98b7-411f-8eb6-c5157f43f12c))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4866,8 +5100,11 @@
     (property "JLCPCB Part #" "" (at 106.68 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3ee7f351-541c-4a4d-b6dc-f38ff8f7d7a6))
-    (pin "2" (uuid a06787ca-1d03-411b-b8b9-1e3bd81d3fc6))
+    (property "MPN" "" (at 106.68 63.5 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 896c834e-b3dc-4275-b15c-5ac9b6002aa4))
+    (pin "2" (uuid bbdaeddf-0222-412d-8a0b-547035f30f59))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4893,10 +5130,10 @@
     (property "Reference" "D55" (at 76.2 172.72 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 76.2 175.26 90)
+    (property "Value" "SOD_123" (at 76.2 175.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 73.66 173.99 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 73.66 173.99 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 173.99 90)
@@ -4911,8 +5148,11 @@
     (property "JLCPCB Part #" "C258181" (at 73.66 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 537a614f-1ad6-4f32-a907-8816565d4d3c))
-    (pin "2" (uuid ae00d15f-044a-4746-8491-9ee97f330121))
+    (property "MPN" "1N914BWS" (at 73.66 173.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 73a54f33-3537-49fd-abab-49b45fc56f5c))
+    (pin "2" (uuid 487daf01-5927-40f0-965a-f97684a30927))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4933,10 +5173,10 @@
     (property "Reference" "D28" (at 86.36 96.52 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Value" "SOD_323F" (at 86.36 99.06 90)
+    (property "Value" "SOD_123" (at 86.36 99.06 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 83.82 97.79 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 83.82 97.79 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 97.79 90)
@@ -4951,8 +5191,11 @@
     (property "JLCPCB Part #" "C258181" (at 83.82 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 13287bf7-befc-45f9-b957-b2340093e256))
-    (pin "2" (uuid 17ffe246-6a93-48ae-a1ca-c869129baec6))
+    (property "MPN" "1N914BWS" (at 83.82 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 66c7c990-0345-4858-916e-22ccdc7e4cb9))
+    (pin "2" (uuid 973814d8-0c1d-48df-8075-29f60d0ee2c5))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -4990,8 +5233,11 @@
     (property "JLCPCB Part #" "" (at 85.09 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3f07bf06-4a96-4e03-99f0-93c8b51ec2b8))
-    (pin "2" (uuid a2038771-5094-4f17-ba8e-f29e3835e7b9))
+    (property "MPN" "" (at 85.09 186.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b27d8255-e69b-4184-bbf2-22a3489f1aa6))
+    (pin "2" (uuid 1f86f927-3c26-4f07-94de-adf08348ba76))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5024,8 +5270,11 @@
     (property "JLCPCB Part #" "" (at 92.71 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e7be2e40-417d-4656-b65a-7fa5efd34a97))
-    (pin "2" (uuid 6e41da3b-0863-4f28-ac90-1d84866135e7))
+    (property "MPN" "" (at 92.71 63.5 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f9fb7301-61f1-412f-a844-8ec90f91f778))
+    (pin "2" (uuid a6ce3a1a-8514-4344-87ed-bb6a1ea6e587))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5051,10 +5300,10 @@
     (property "Reference" "D12" (at 114.3 48.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 114.3 50.8 90)
+    (property "Value" "SOD_123" (at 114.3 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 111.76 49.53 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 111.76 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 111.76 49.53 90)
@@ -5069,8 +5318,11 @@
     (property "JLCPCB Part #" "C258181" (at 111.76 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1f9ef27d-bb31-4933-8830-769f3a1a1145))
-    (pin "2" (uuid f0556387-ba24-4ab2-8d5a-25755049a006))
+    (property "MPN" "1N914BWS" (at 111.76 49.53 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 13812b45-cdc9-490b-831e-31312aca58e4))
+    (pin "2" (uuid d9300732-11cf-4a47-8223-b4cd1c298549))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5096,10 +5348,10 @@
     (property "Reference" "D9" (at 69.85 48.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 69.85 50.8 90)
+    (property "Value" "SOD_123" (at 69.85 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 67.31 49.53 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 67.31 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 67.31 49.53 90)
@@ -5114,8 +5366,11 @@
     (property "JLCPCB Part #" "C258181" (at 67.31 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1d256c84-0d99-407d-a264-4df81c7379ba))
-    (pin "2" (uuid dea54255-588a-44ac-af6a-3a0d55a405bc))
+    (property "MPN" "1N914BWS" (at 67.31 49.53 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid cbb3e161-557d-4897-a439-619e9daa4a68))
+    (pin "2" (uuid b7743ae5-a4d7-49a4-bcc3-f9aae7884d6a))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5141,10 +5396,10 @@
     (property "Reference" "D6" (at 114.3 31.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 114.3 34.29 90)
+    (property "Value" "SOD_123" (at 114.3 34.29 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 111.76 33.02 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 111.76 33.02 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 111.76 33.02 90)
@@ -5159,8 +5414,11 @@
     (property "JLCPCB Part #" "C258181" (at 111.76 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2dbc073e-f160-49a5-81d3-c80e4496372d))
-    (pin "2" (uuid 5ba65b7b-0e34-4025-aa11-492f9a2cd7f8))
+    (property "MPN" "1N914BWS" (at 111.76 33.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3b5f5c69-ec88-4a7f-b324-026e42759c11))
+    (pin "2" (uuid 69921eeb-70f6-4563-800f-ddfd0672ab75))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5198,8 +5456,11 @@
     (property "JLCPCB Part #" "" (at 78.74 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4b83ec26-de73-4eb7-b8a1-7c1d69ae62c5))
-    (pin "2" (uuid f1b37bac-c8b4-49c4-9bce-0f3a59dfe6b4))
+    (property "MPN" "" (at 78.74 63.5 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 41956ae5-948c-45a4-bb59-58c2fd0ae8f0))
+    (pin "2" (uuid d09094f4-6b5c-4918-95e4-f5763853cd55))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5225,10 +5486,10 @@
     (property "Reference" "D5" (at 100.33 31.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 100.33 34.29 90)
+    (property "Value" "SOD_123" (at 100.33 34.29 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 97.79 33.02 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 97.79 33.02 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 97.79 33.02 90)
@@ -5243,8 +5504,11 @@
     (property "JLCPCB Part #" "C258181" (at 97.79 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 298072ff-4dec-455b-b141-e3ddd28a0314))
-    (pin "2" (uuid 52b7abf7-8260-4e4b-a5d0-90b9538c5459))
+    (property "MPN" "1N914BWS" (at 97.79 33.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fda2bcc9-ec9e-43c0-b970-da38bddaf02f))
+    (pin "2" (uuid 17fbbb35-7718-4ee7-8505-e6c080bd6aaf))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5282,30 +5546,33 @@
     (property "JLCPCB Part #" "" (at 231.14 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0dde59ef-9941-4950-a62d-0fddc70c78d7))
-    (pin "10" (uuid 0bd9d29b-825b-4cde-99e1-fd9dfdd54b0f))
-    (pin "11" (uuid 90347274-fb04-4487-923a-a2fe34b39338))
-    (pin "12" (uuid 1f17ad59-1f44-43e4-bca9-4138b8b41014))
-    (pin "13" (uuid d59dd41c-ece4-4d8f-995c-e7c91948d9fa))
-    (pin "14" (uuid cdcc20a8-b263-4cb0-ba0e-7e22be9562d1))
-    (pin "15" (uuid e4df707c-c692-4c68-8e83-c68f950b1501))
-    (pin "16" (uuid 5b390365-56f0-4e07-907d-293cddfc2f13))
-    (pin "17" (uuid ac2746e1-f0fc-44e8-b293-f6a3991fa3ba))
-    (pin "18" (uuid 8ee838b8-4f7b-4507-bd98-49136e38f8ff))
-    (pin "19" (uuid f422ccd0-740c-4b25-8ac4-0af258f6e3d8))
-    (pin "2" (uuid 5d2389ca-23ee-4a38-8df9-b6990c7de506))
-    (pin "20" (uuid 39a051f2-6cac-4dd2-9490-e458857db350))
-    (pin "21" (uuid 5efc3e39-4731-413f-a4ad-312b6839a676))
-    (pin "22" (uuid 775db804-ed87-463e-99f4-54bb63acaee8))
-    (pin "23" (uuid 6a7fccb6-fba8-47db-812d-11be5122d250))
-    (pin "24" (uuid 7a43464b-a040-4d70-a371-b13b95737af8))
-    (pin "3" (uuid e10328f4-9053-43d0-a284-3ce3ff3f2020))
-    (pin "4" (uuid 410b43fe-5599-4a2f-9ce9-d553127886eb))
-    (pin "5" (uuid ba11caca-8568-4ef0-a178-0bac19ac00ed))
-    (pin "6" (uuid 0f91b95c-8c20-495a-b77e-ada0d5eb3644))
-    (pin "7" (uuid 0015db91-2c61-43ee-a737-d41b34a6beb7))
-    (pin "8" (uuid 4abc4811-33d5-47ac-a8ff-76b3078e6ba8))
-    (pin "9" (uuid c9506eeb-2ab6-4fbb-93ac-62066f468fd9))
+    (property "MPN" "" (at 231.14 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3c3b664e-c9f3-4c47-a0c5-c17149c2a21b))
+    (pin "10" (uuid 25e52a97-04d3-4247-8652-cedc78b1b152))
+    (pin "11" (uuid ea4f2143-836e-49be-bbad-f8a9e5634390))
+    (pin "12" (uuid 7c545b9f-c588-46ac-9789-fa20195a0749))
+    (pin "13" (uuid a50d37e7-74a5-4197-ac64-6dc2f397c922))
+    (pin "14" (uuid 47b10292-696c-4fba-94cc-ab902b007d3e))
+    (pin "15" (uuid 321dade0-2b38-4026-a4c5-dd40e8dc812d))
+    (pin "16" (uuid 94d900dc-d003-4ded-938d-b4914bc45487))
+    (pin "17" (uuid 5001e08e-027d-437a-adf9-e496d1104d25))
+    (pin "18" (uuid 665fe2d9-0670-4897-a8c2-d3f9b83bbd0e))
+    (pin "19" (uuid c13f3738-49cb-45d2-beb1-7d18637273b6))
+    (pin "2" (uuid 4ea5bd4e-a0ea-4b79-8368-b4cc8d916091))
+    (pin "20" (uuid 703abddf-c15f-4485-a724-6d19159e38ac))
+    (pin "21" (uuid 3b0b80fa-9e75-4e0c-9bea-4f81716eb8d0))
+    (pin "22" (uuid c2d8f876-ae44-485f-9d9c-fb4e1862f2a2))
+    (pin "23" (uuid e8ff93a2-bcea-469d-898a-4dcfa6a8e596))
+    (pin "24" (uuid 4cebf15d-4c61-4843-b990-da99995a5c19))
+    (pin "3" (uuid 2e60c166-f92a-4c55-9680-657894ef15aa))
+    (pin "4" (uuid d8f8debe-21ee-4f41-9f46-362589da56d7))
+    (pin "5" (uuid e1fb8cd9-6835-41d4-bad8-e81e9e300bbc))
+    (pin "6" (uuid d6680425-54ca-4992-8c30-2eb282b4cbdf))
+    (pin "7" (uuid 7ef1dc14-45ab-4807-9dab-52e73c51d1b5))
+    (pin "8" (uuid d22651e1-b1f6-4f64-bd41-a7a13519013e))
+    (pin "9" (uuid a58fcdaa-454a-447f-aeed-b41b581cf23b))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5343,8 +5610,11 @@
     (property "JLCPCB Part #" "" (at 62.23 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0bb24b6f-472b-4565-bf8a-a570bda8da12))
-    (pin "2" (uuid 868e3376-6860-4d1b-a7e3-b4459b50cdd2))
+    (property "MPN" "" (at 62.23 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4d8b5a33-1af8-4dca-bb7a-3fde1b7521dc))
+    (pin "2" (uuid 7480ae45-f7b6-4022-91cf-6391fcc629c1))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5370,10 +5640,10 @@
     (property "Reference" "D42" (at 106.68 139.7 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 106.68 142.24 90)
+    (property "Value" "SOD_123" (at 106.68 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 104.14 140.97 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 104.14 140.97 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 104.14 140.97 90)
@@ -5388,8 +5658,11 @@
     (property "JLCPCB Part #" "C258181" (at 104.14 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d43845b7-33bb-42cf-95b2-75ca67d15325))
-    (pin "2" (uuid 9004ab09-aa29-454d-b9b7-02a778eface4))
+    (property "MPN" "1N914BWS" (at 104.14 140.97 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 69fdced3-55b0-4781-9aac-4d809f224e64))
+    (pin "2" (uuid 3317d0e8-90e7-457b-b0ac-544abaf64eef))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5410,10 +5683,10 @@
     (property "Reference" "D47" (at 60.96 156.21 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 60.96 158.75 90)
+    (property "Value" "SOD_123" (at 60.96 158.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 58.42 157.48 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 58.42 157.48 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 58.42 157.48 90)
@@ -5428,8 +5701,11 @@
     (property "JLCPCB Part #" "C258181" (at 58.42 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 95e82de4-530d-452d-bc66-d0f3ba890f0f))
-    (pin "2" (uuid 443a68de-4d23-4556-b2b4-385fb60dfd16))
+    (property "MPN" "1N914BWS" (at 58.42 157.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3a334f7b-f34c-40e6-8298-fa8a02ad1c37))
+    (pin "2" (uuid f261b0ea-3430-484c-bba8-64a8c39ea34e))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5450,10 +5726,10 @@
     (property "Reference" "D16" (at 86.36 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 86.36 67.31 90)
+    (property "Value" "SOD_123" (at 86.36 67.31 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 83.82 66.04 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 83.82 66.04 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 66.04 90)
@@ -5468,8 +5744,11 @@
     (property "JLCPCB Part #" "C258181" (at 83.82 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 25081964-c9d9-4fcf-a7b3-8b850888e935))
-    (pin "2" (uuid c6abbee0-e6b9-4f82-9497-439517e33f75))
+    (property "MPN" "1N914BWS" (at 83.82 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid df1b5478-5522-4ff7-9ec5-8423b77774d6))
+    (pin "2" (uuid 05959344-f99e-4056-9fa2-1266e99c8402))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5507,8 +5786,11 @@
     (property "JLCPCB Part #" "" (at 62.23 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e7bb1760-ec66-4e21-9a7a-3995966b39b1))
-    (pin "2" (uuid d65ad3f0-b136-4759-8fdf-de6502f00b36))
+    (property "MPN" "" (at 62.23 63.5 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid bf76059c-2926-4cf4-a822-64698ee075a3))
+    (pin "2" (uuid 87bb81ed-0822-4469-a248-6dfb210a7f9e))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5546,8 +5828,11 @@
     (property "JLCPCB Part #" "" (at 53.34 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dc1f1a1d-a8f3-4a86-811e-75d6da04eacf))
-    (pin "2" (uuid babced1d-246d-40ff-abf5-4ba2ad45d946))
+    (property "MPN" "" (at 53.34 186.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c35b6399-f871-428e-a372-d29fd43c7368))
+    (pin "2" (uuid e83e70a7-a1dd-48b9-b273-9fb1fa078494))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5580,8 +5865,11 @@
     (property "JLCPCB Part #" "" (at 120.65 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e58a2e9f-4770-42eb-9d53-5a70ba4fd7c9))
-    (pin "2" (uuid bb45153c-3964-4096-9bf1-117d6c8f6ad2))
+    (property "MPN" "" (at 120.65 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid bc15d190-7095-441e-80bc-31334dd9d5da))
+    (pin "2" (uuid 764277f1-178d-4b4d-ae87-6854ec3860fb))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5619,8 +5907,11 @@
     (property "JLCPCB Part #" "" (at 127 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4f7adcb4-174b-43cf-8581-b1c09ceb97c8))
-    (pin "2" (uuid 58b2ca09-6ff6-4dac-9a1c-cfb4c347f378))
+    (property "MPN" "" (at 127 186.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 23dfc341-ae3f-4fce-a6f6-1373e34cf73a))
+    (pin "2" (uuid de0330ee-5f08-48ce-b008-ff6a87bf0f72))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5653,8 +5944,11 @@
     (property "JLCPCB Part #" "" (at 78.74 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c8959000-0426-4f05-ab43-57304e84dd24))
-    (pin "2" (uuid 9779045a-12fb-4413-8435-849279c88678))
+    (property "MPN" "" (at 78.74 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a8ae87f0-efc5-482f-b71b-6c19e8c8888b))
+    (pin "2" (uuid 54c4430c-3980-4e1a-b87f-9ce9cc914330))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5680,10 +5974,10 @@
     (property "Reference" "D63" (at 134.62 187.96 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 134.62 190.5 90)
+    (property "Value" "SOD_123" (at 134.62 190.5 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 132.08 189.23 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 132.08 189.23 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.08 189.23 90)
@@ -5698,8 +5992,11 @@
     (property "JLCPCB Part #" "C258181" (at 132.08 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f53f143d-fb61-4053-a32f-ea71607d74da))
-    (pin "2" (uuid 8da6428c-500a-4564-a4be-b803214b3233))
+    (property "MPN" "1N914BWS" (at 132.08 189.23 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0bee6f1e-d49d-4e9a-a543-671303ccdb43))
+    (pin "2" (uuid 93a72b2d-d481-4f9d-9c90-eceb27b7889c))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5732,8 +6029,11 @@
     (property "JLCPCB Part #" "" (at 31.75 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 919927f8-fcd7-46d4-98d7-65dcce78d375))
-    (pin "2" (uuid 4cbcc0d3-c86e-4a1e-b9f7-3fe10273d67d))
+    (property "MPN" "" (at 31.75 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 41f584f3-74b3-46a7-b4de-d28b46dc0cca))
+    (pin "2" (uuid 0f983d3a-c5d5-4964-a9d8-508bce34d994))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5759,10 +6059,10 @@
     (property "Reference" "D4" (at 86.36 31.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 86.36 34.29 90)
+    (property "Value" "SOD_123" (at 86.36 34.29 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 83.82 33.02 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 83.82 33.02 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 33.02 90)
@@ -5777,8 +6077,11 @@
     (property "JLCPCB Part #" "C258181" (at 83.82 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3b8add3-e433-4bb4-b610-f4734db63300))
-    (pin "2" (uuid 15c3b16e-b99a-4c27-87cf-1e74988b839b))
+    (property "MPN" "1N914BWS" (at 83.82 33.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0da1b8a1-5d7c-423a-95bc-755c2eeb7e58))
+    (pin "2" (uuid 6b02cfed-1339-4c20-bfb3-7458c106daa0))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5804,10 +6107,10 @@
     (property "Reference" "D53" (at 45.72 172.72 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 45.72 175.26 90)
+    (property "Value" "SOD_123" (at 45.72 175.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 43.18 173.99 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 43.18 173.99 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 43.18 173.99 90)
@@ -5822,8 +6125,11 @@
     (property "JLCPCB Part #" "C258181" (at 43.18 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 52caaacb-25ee-4fff-b03e-a9ca8bda4f2e))
-    (pin "2" (uuid 9a62cb5a-354b-462a-ac11-6d917a9fcf6b))
+    (property "MPN" "1N914BWS" (at 43.18 173.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5c61a00f-588f-4190-96a4-db50cfc4b756))
+    (pin "2" (uuid 281bc6d4-d636-4717-bad6-70fee2db1cee))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5856,8 +6162,11 @@
     (property "JLCPCB Part #" "" (at 85.09 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 46754ba5-5c16-446d-a00a-e7ddb75ce289))
-    (pin "2" (uuid 61d43ae1-0146-4e4b-b55f-627ca6e7e79c))
+    (property "MPN" "" (at 85.09 171.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5c906d24-06d8-4934-a7da-074797bc92e4))
+    (pin "2" (uuid 957beb85-a573-4218-88a5-795b0aa1c1ce))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5878,10 +6187,10 @@
     (property "Reference" "D37" (at 134.62 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 134.62 125.73 90)
+    (property "Value" "SOD_123" (at 134.62 125.73 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 132.08 124.46 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 132.08 124.46 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.08 124.46 90)
@@ -5896,8 +6205,11 @@
     (property "JLCPCB Part #" "C258181" (at 132.08 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 49c46115-b6fb-48b9-a2b7-54ba3f14ec91))
-    (pin "2" (uuid a8ce2364-40a5-4d76-8403-3cf114468970))
+    (property "MPN" "1N914BWS" (at 132.08 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 98b03cd3-acb6-49ef-8d08-0424ba8092e8))
+    (pin "2" (uuid 5e7cf609-adcb-4243-8498-b88684a04b2b))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5918,10 +6230,10 @@
     (property "Reference" "D43" (at 120.65 139.7 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 120.65 142.24 90)
+    (property "Value" "SOD_123" (at 120.65 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 118.11 140.97 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 118.11 140.97 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 118.11 140.97 90)
@@ -5936,8 +6248,11 @@
     (property "JLCPCB Part #" "C258181" (at 118.11 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c370f46d-ac3a-4692-ab4e-448cb8319f60))
-    (pin "2" (uuid 60ba7171-300f-4df5-853f-acdf0d129e95))
+    (property "MPN" "1N914BWS" (at 118.11 140.97 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid eb460cc1-729f-4dbd-b3b0-32ea156237ce))
+    (pin "2" (uuid 7702ca0f-5b8b-4685-9c65-f0aeb8cbee62))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -5970,8 +6285,11 @@
     (property "JLCPCB Part #" "" (at 113.03 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ad061f26-b982-4079-9c5e-56f00f7c5d64))
-    (pin "2" (uuid 02bf06ce-35e6-421a-83ce-413b498c45bc))
+    (property "MPN" "" (at 113.03 121.92 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9949e292-9779-4fb9-9afe-a490c993cd1c))
+    (pin "2" (uuid d80c31b7-a6bc-4116-9a77-eb2d0e4f3866))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6004,30 +6322,33 @@
     (property "JLCPCB Part #" "" (at 195.58 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c7a8db64-0d0f-434f-9970-f06295ff7322))
-    (pin "10" (uuid 6a5df683-e9d1-4cd9-a57b-3883c225a69c))
-    (pin "11" (uuid b664084a-a22f-4296-86ac-f9b56dd81342))
-    (pin "12" (uuid ef74c7e7-2dc1-4e96-9455-8f601c017c37))
-    (pin "13" (uuid c8bb6324-9ea8-4729-82bf-e138fcf9f73e))
-    (pin "14" (uuid 10b0598f-7c6d-4fd6-af52-716b71f4f842))
-    (pin "15" (uuid 42ce2d0e-b03c-48be-83e9-940cff9a76e1))
-    (pin "16" (uuid dfcdced0-4042-4f56-a9ba-d284ebb37c71))
-    (pin "17" (uuid 6c6e1640-82d4-4e25-8275-0bf989323dc7))
-    (pin "18" (uuid 7a3b507d-0f76-42b2-955c-237e7636d646))
-    (pin "19" (uuid 7601ed45-2471-4e1f-bba6-bb8500a3eb21))
-    (pin "2" (uuid 48c9a701-5475-4f74-93ab-7589b4ec1ed8))
-    (pin "20" (uuid 5952e26a-4399-4c1f-a606-3371019b6e3a))
-    (pin "21" (uuid 14666d04-39a9-474d-a351-a7b83d726a74))
-    (pin "22" (uuid 880fb76f-bdc7-4a6c-82a0-34db26973084))
-    (pin "23" (uuid aa4bbe56-6d15-4890-ad82-27b587d15021))
-    (pin "24" (uuid 2125c09f-b05c-4c03-9ca7-12a519a4e274))
-    (pin "3" (uuid ede17d3e-d264-4209-a060-b8cf2ab70793))
-    (pin "4" (uuid ab22e500-cc4c-4094-a9aa-768d2cd7ce82))
-    (pin "5" (uuid bf001d6f-af7b-4c64-930e-8339e159c5c0))
-    (pin "6" (uuid 30614525-a4c7-4ca4-9bfc-2dee50442906))
-    (pin "7" (uuid d33e28af-62a8-4b25-a7dd-963c7532e2bf))
-    (pin "8" (uuid 43ee4148-78fc-4551-9aea-a397e155f459))
-    (pin "9" (uuid d30857f8-5a06-46b6-acbf-67fd530e6373))
+    (property "MPN" "" (at 195.58 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 14fa2a4c-961c-42d0-9762-8e4396f463ea))
+    (pin "10" (uuid dfd59106-9552-4cef-a25d-1f55271b8a74))
+    (pin "11" (uuid e16b14d0-af16-46d9-96e8-e1046f7376f2))
+    (pin "12" (uuid 43cd6581-c3b4-4a26-9f5d-c86463182225))
+    (pin "13" (uuid 31b35d20-d309-4e0e-a29d-73d9926c9f23))
+    (pin "14" (uuid c6da5837-e1a6-4ef4-a73a-5015417dea73))
+    (pin "15" (uuid df6825df-e9eb-486b-b7c2-14565c65af70))
+    (pin "16" (uuid 6027f4aa-7f25-4cb6-8c28-b9475491a938))
+    (pin "17" (uuid f87ea3ed-703e-4f2c-82c3-b18aa40872a1))
+    (pin "18" (uuid 667eb9c5-6482-476e-8ec7-69c11238d994))
+    (pin "19" (uuid 4d870210-68d7-41c5-962d-f74a0d5e8ffe))
+    (pin "2" (uuid de65e5fd-1cc5-4fff-a0ee-266d75c4f367))
+    (pin "20" (uuid ec9a1cf6-bea2-4210-8719-9591d71313c3))
+    (pin "21" (uuid b2a81746-324f-44d9-b4ac-f7950e41b006))
+    (pin "22" (uuid d7ee9bdb-5cc2-4f19-a6ca-cdc9e8105fcf))
+    (pin "23" (uuid 4eac5221-9d8c-4ae0-95e8-7d5975d38388))
+    (pin "24" (uuid ac4e347e-9a8a-4fb5-8c12-9d4c809786cd))
+    (pin "3" (uuid 8aedb39e-e954-4e11-bb3b-a85cc68dddf0))
+    (pin "4" (uuid 9787bf8d-54cc-437f-ad24-21aebb7ec077))
+    (pin "5" (uuid b30a0b40-eede-44f4-befe-86a4017696a4))
+    (pin "6" (uuid bc401523-ea58-4e2b-8e1b-03d2ffd64272))
+    (pin "7" (uuid 8088e9c5-4faa-4fac-8a05-7311d324ffae))
+    (pin "8" (uuid 293eeb74-0b9b-4559-acb8-e1f6a6e1266e))
+    (pin "9" (uuid f9c6186f-25bd-4437-9c2f-3bb480193386))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6078,10 +6399,10 @@
     (property "Reference" "D44" (at 134.62 139.7 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 134.62 142.24 90)
+    (property "Value" "SOD_123" (at 134.62 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 132.08 140.97 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 132.08 140.97 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.08 140.97 90)
@@ -6096,8 +6417,11 @@
     (property "JLCPCB Part #" "C258181" (at 132.08 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5700fc9c-8fa2-400d-b827-1bf4c662339d))
-    (pin "2" (uuid ef7ca24c-13a8-4342-ace0-0e9f507197c9))
+    (property "MPN" "1N914BWS" (at 132.08 140.97 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 85004fae-8f5c-4666-8cdd-49d4c1c6ef69))
+    (pin "2" (uuid 692d300c-b180-4517-930e-5dbd81f8161e))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6118,10 +6442,10 @@
     (property "Reference" "D22" (at 86.36 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 86.36 83.82 90)
+    (property "Value" "SOD_123" (at 86.36 83.82 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 83.82 82.55 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 83.82 82.55 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 82.55 90)
@@ -6136,8 +6460,11 @@
     (property "JLCPCB Part #" "C258181" (at 83.82 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 313aa4e4-3ef3-4879-875f-9c78c343a6ab))
-    (pin "2" (uuid 194ba2de-9406-463f-b32d-0b8c26a65764))
+    (property "MPN" "1N914BWS" (at 83.82 82.55 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e5c73c98-8dd9-4f3d-bd0e-c4ab512bf321))
+    (pin "2" (uuid 1b64a54b-4707-431c-b969-5c3e43b3f1dd))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6175,8 +6502,11 @@
     (property "JLCPCB Part #" "" (at 120.65 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 250a40c2-3f43-497a-a5dc-b696a1449941))
-    (pin "2" (uuid 84f8c796-14d0-4901-99d1-54abb48d1ebc))
+    (property "MPN" "" (at 120.65 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fd3aa417-f538-4ea3-bbef-7f6eb842d4ea))
+    (pin "2" (uuid 4055ed98-268e-40b9-bb98-1d1ba72bbd3a))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6202,10 +6532,10 @@
     (property "Reference" "D46" (at 45.72 156.21 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 45.72 158.75 90)
+    (property "Value" "SOD_123" (at 45.72 158.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 43.18 157.48 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 43.18 157.48 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 43.18 157.48 90)
@@ -6220,8 +6550,11 @@
     (property "JLCPCB Part #" "C258181" (at 43.18 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 385ef910-9ecc-4814-855b-aed94738a8f8))
-    (pin "2" (uuid 0eb3d5db-f428-4a10-81a2-d29eb28dca73))
+    (property "MPN" "1N914BWS" (at 43.18 157.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f489eff2-5bc3-4ff9-837c-ce48a47ddc1a))
+    (pin "2" (uuid 335c7897-026d-4f20-8707-ff15be5de5bc))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6242,10 +6575,10 @@
     (property "Reference" "D57" (at 106.68 172.72 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 106.68 175.26 90)
+    (property "Value" "SOD_123" (at 106.68 175.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 104.14 173.99 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 104.14 173.99 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 104.14 173.99 90)
@@ -6260,8 +6593,11 @@
     (property "JLCPCB Part #" "C258181" (at 104.14 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9843972e-0d81-4dd0-afa6-347ee866ef0d))
-    (pin "2" (uuid 17d5c717-ec3e-4b29-aecf-b1f41ae288b9))
+    (property "MPN" "1N914BWS" (at 104.14 173.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3440df3a-ecde-49b0-9bcc-6d75ca7fa002))
+    (pin "2" (uuid 4199d90e-6b82-4c33-9f1a-da96bbc1413b))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6294,8 +6630,11 @@
     (property "JLCPCB Part #" "" (at 120.65 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1bc24822-d547-4d32-83fd-1dece64f2190))
-    (pin "2" (uuid 40c75a63-b772-4fbb-bff0-afb687158dd3))
+    (property "MPN" "" (at 120.65 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d5fac699-2f35-446e-9011-a1ea37c472c8))
+    (pin "2" (uuid 01ac6a19-f181-4947-b2d6-09aff1e4a4e0))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6333,8 +6672,11 @@
     (property "JLCPCB Part #" "" (at 85.09 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5a863575-dcba-49ac-8388-643f20eed470))
-    (pin "2" (uuid 83fcdc57-f319-4a3a-a842-2e2f2f202eb4))
+    (property "MPN" "" (at 85.09 138.43 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 156cfa87-37fd-49ea-bac3-b64f9433c00b))
+    (pin "2" (uuid 0946e3c0-b123-4254-be7a-952f06ef00d4))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6355,10 +6697,10 @@
     (property "Reference" "D60" (at 148.59 172.72 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 148.59 175.26 90)
+    (property "Value" "SOD_123" (at 148.59 175.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 146.05 173.99 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 146.05 173.99 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 146.05 173.99 90)
@@ -6373,8 +6715,11 @@
     (property "JLCPCB Part #" "C258181" (at 146.05 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 48065cc9-05e7-4440-b7f7-40a55af2c49b))
-    (pin "2" (uuid dc8a0b33-4033-49d8-a3cd-be5a4756f73a))
+    (property "MPN" "1N914BWS" (at 146.05 173.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f2efe1b1-b60d-47ee-a0d4-866a3e15c9d8))
+    (pin "2" (uuid b56038ed-995f-4ed2-94c0-c7be24e68d38))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6407,8 +6752,11 @@
     (property "JLCPCB Part #" "" (at 106.68 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d939897d-447b-4ea0-95ea-9a2b48f938ed))
-    (pin "2" (uuid e3523c47-58e7-4632-933d-82f54a6a632d))
+    (property "MPN" "" (at 106.68 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b420b7ca-b2fb-4aea-87db-297cdc77c7e6))
+    (pin "2" (uuid 9e307032-0076-4a08-9321-cbb3efe73a83))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6446,8 +6794,11 @@
     (property "JLCPCB Part #" "" (at 31.75 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a97074cd-9950-498a-a0c2-006a2fb8edc8))
-    (pin "2" (uuid 652b358c-638c-4332-92ee-b6296aba55ae))
+    (property "MPN" "" (at 31.75 80.01 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2364c330-fcc9-4261-b42e-4472664dbd46))
+    (pin "2" (uuid ea4a0c45-d7a2-47ae-ad8e-b1672a2f3260))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6473,10 +6824,10 @@
     (property "Reference" "D54" (at 60.96 172.72 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 60.96 175.26 90)
+    (property "Value" "SOD_123" (at 60.96 175.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 58.42 173.99 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 58.42 173.99 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 58.42 173.99 90)
@@ -6491,8 +6842,11 @@
     (property "JLCPCB Part #" "C258181" (at 58.42 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4a0a4857-5d45-4bd4-a087-a11b69ca67a5))
-    (pin "2" (uuid 5f399972-d7b3-402f-96f5-65131fdb44e2))
+    (property "MPN" "1N914BWS" (at 58.42 173.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7843221a-c5d2-4e25-a52d-5eb42f31f5c3))
+    (pin "2" (uuid d3a85a2f-82d8-4c6a-9f8a-c94fbc80c4a3))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6525,8 +6879,11 @@
     (property "JLCPCB Part #" "" (at 113.03 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6dfa0b84-2fd1-4d5b-99c3-3e75cb4d6632))
-    (pin "2" (uuid d20d5169-ac88-4997-b989-8adcbdb4be6a))
+    (property "MPN" "" (at 113.03 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fefcbc93-57f7-482f-b9d3-7cae1bba96d5))
+    (pin "2" (uuid cf425510-dbdc-4ab6-979d-0215bae086e9))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6547,10 +6904,10 @@
     (property "Reference" "D35" (at 106.68 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 106.68 125.73 90)
+    (property "Value" "SOD_123" (at 106.68 125.73 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 104.14 124.46 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 104.14 124.46 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 104.14 124.46 90)
@@ -6565,8 +6922,11 @@
     (property "JLCPCB Part #" "C258181" (at 104.14 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0c951ea9-39f9-40ff-a782-2e5742a97b42))
-    (pin "2" (uuid 5072f9dd-f475-4120-9d1a-ecfe7b25ae3b))
+    (property "MPN" "1N914BWS" (at 104.14 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e0d786b4-f3e8-4bfd-b68c-2d4c135ebfda))
+    (pin "2" (uuid 74618ab5-6fe6-4420-907a-d9bda73398b4))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6634,8 +6994,11 @@
     (property "JLCPCB Part #" "" (at 140.97 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fba56b27-bba2-4825-9ac4-422d28713d2e))
-    (pin "2" (uuid f6f6be3e-7c9c-453b-8fa2-2de35b92f8e2))
+    (property "MPN" "" (at 140.97 186.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d4921ab4-70e8-4770-ad34-f776837fab0f))
+    (pin "2" (uuid 29e7679a-e0a5-4c04-9e70-89c4bde2239c))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6656,10 +7019,10 @@
     (property "Reference" "D41" (at 92.71 139.7 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 92.71 142.24 90)
+    (property "Value" "SOD_123" (at 92.71 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 90.17 140.97 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 90.17 140.97 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 90.17 140.97 90)
@@ -6674,8 +7037,11 @@
     (property "JLCPCB Part #" "C258181" (at 90.17 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ae43c7a6-7aeb-4f8e-a264-5e8da451761e))
-    (pin "2" (uuid ec178234-af74-4df5-b93b-ff5efe4e3d8e))
+    (property "MPN" "1N914BWS" (at 90.17 140.97 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4bde48e0-0765-44e0-9534-d6531d93c33c))
+    (pin "2" (uuid a8d252bf-95ab-4f73-b0ee-54c474382f7c))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6708,10 +7074,13 @@
     (property "JLCPCB Part #" "C2884926" (at 187.96 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ad86ba0b-3a21-4241-8aa7-9e15e2b0e77e))
-    (pin "2" (uuid 95061468-c6f9-4a73-beb5-3692e2236286))
-    (pin "3" (uuid 471e3d31-889a-44ee-a635-c044a9affc99))
-    (pin "4" (uuid 356759a4-46d5-4174-83e6-28b35a817ada))
+    (property "MPN" "PJ-320A" (at 187.96 33.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 023fe47a-cdc8-4fac-9d8a-29bc73490f6d))
+    (pin "2" (uuid 3126ee21-e8fa-4d49-a64c-f74538ee9f62))
+    (pin "3" (uuid 582eb49b-d0bd-40c8-a28e-5f0aa26b8a85))
+    (pin "4" (uuid a3648033-8769-4f85-8aca-b9ad9920644b))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6737,10 +7106,10 @@
     (property "Reference" "D3" (at 69.85 31.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 69.85 34.29 90)
+    (property "Value" "SOD_123" (at 69.85 34.29 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 67.31 33.02 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 67.31 33.02 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 67.31 33.02 90)
@@ -6755,8 +7124,11 @@
     (property "JLCPCB Part #" "C258181" (at 67.31 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b8a39190-98ab-465c-b73b-82e7fa4c9476))
-    (pin "2" (uuid 5d96784e-8688-4376-afe9-a85b12759f8a))
+    (property "MPN" "1N914BWS" (at 67.31 33.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid cb5d2f6b-a676-418f-8857-df122bbfb153))
+    (pin "2" (uuid b9084899-5bee-45f7-bec6-235366b5d926))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6829,8 +7201,11 @@
     (property "JLCPCB Part #" "" (at 113.03 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d63cf26e-5e31-4ad7-b52f-f87f5f4199db))
-    (pin "2" (uuid b3f18cbb-1fc8-4bd2-b976-d72245b0e6eb))
+    (property "MPN" "" (at 113.03 138.43 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7f5e70fd-371f-4f71-ba1f-b4186070322a))
+    (pin "2" (uuid fe0401fa-d282-4341-81df-bab7e4e2e1b7))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6863,8 +7238,11 @@
     (property "JLCPCB Part #" "" (at 46.99 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5372382c-fd72-40ea-a413-cfa99bab7798))
-    (pin "2" (uuid 00809a91-1d03-49cc-aede-031081f3799b))
+    (property "MPN" "" (at 46.99 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 33765249-c029-410d-ade6-384a5902d85f))
+    (pin "2" (uuid 939aedc3-8305-4d49-ac8f-4f935d248cab))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6890,10 +7268,10 @@
     (property "Reference" "D19" (at 128.27 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 128.27 67.31 90)
+    (property "Value" "SOD_123" (at 128.27 67.31 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 125.73 66.04 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 125.73 66.04 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 125.73 66.04 90)
@@ -6908,8 +7286,11 @@
     (property "JLCPCB Part #" "C258181" (at 125.73 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f5cd002d-467b-442e-8f88-9166547abc2b))
-    (pin "2" (uuid aadc5dd7-db1a-4fb5-abf8-7d51ec6705e5))
+    (property "MPN" "1N914BWS" (at 125.73 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e9cc9dd9-90e6-455a-986e-7ddc39fdbf80))
+    (pin "2" (uuid 30fec100-14df-4cf3-b487-b9e49da992b7))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6947,8 +7328,11 @@
     (property "JLCPCB Part #" "" (at 120.65 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7ac8aee9-0766-4340-84f6-892fc921b1c2))
-    (pin "2" (uuid 181ac7b2-8080-43c8-ad08-afe9b426277b))
+    (property "MPN" "" (at 120.65 63.5 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 111ede52-129a-4997-bb98-62870bdab500))
+    (pin "2" (uuid 4e82be34-3df3-41e9-966b-0184caef0578))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -6986,8 +7370,11 @@
     (property "JLCPCB Part #" "" (at 53.34 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ccb01c3f-ce60-4edf-bf26-e7b316ae0c8d))
-    (pin "2" (uuid 083fdde8-7257-462a-a56a-234fd1c4ff7c))
+    (property "MPN" "" (at 53.34 138.43 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a196094c-a7f6-4174-a9a4-50d4c603bd8a))
+    (pin "2" (uuid 90156547-be4b-4e80-bbc0-b69fbf2e99ba))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -7008,10 +7395,10 @@
     (property "Reference" "D8" (at 39.37 48.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SOD_323F" (at 39.37 50.8 90)
+    (property "Value" "SOD_123" (at 39.37 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323F" (at 36.83 49.53 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 36.83 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 36.83 49.53 90)
@@ -7026,8 +7413,11 @@
     (property "JLCPCB Part #" "C258181" (at 36.83 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 944f1d21-3d6f-4600-ae2c-52f26aa7fb71))
-    (pin "2" (uuid f7feab88-df6c-4fdc-bd35-c2831e09c298))
+    (property "MPN" "1N914BWS" (at 36.83 49.53 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2250e760-7bd2-449e-943a-490b23725b9d))
+    (pin "2" (uuid 9a8fa339-c49c-43a0-ae64-a0b6d599f66f))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -7065,8 +7455,11 @@
     (property "JLCPCB Part #" "" (at 99.06 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c66abebd-3196-4c90-be6e-c6538baae87e))
-    (pin "2" (uuid b73a2dc7-b5c7-463d-833e-a7e7cd2890c0))
+    (property "MPN" "" (at 99.06 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 1702c547-1650-430c-a77c-37c42f6eb584))
+    (pin "2" (uuid c574e632-9be5-4576-8b71-d8d727943bf8))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
@@ -7099,8 +7492,11 @@
     (property "JLCPCB Part #" "" (at 53.34 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c71487c2-2ea9-4996-abdc-3622bb134ee3))
-    (pin "2" (uuid 9f9c3c56-74d5-4173-9569-7d93ed945da1))
+    (property "MPN" "" (at 53.34 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4243b4ba-31b2-473f-afe7-03e661ccd711))
+    (pin "2" (uuid 6a251fe0-61aa-4771-9612-9a773dfc17c5))
     (instances
       (project "keyboard"
         (path "/8753f267-ce81-4f2a-82e0-7caa9e03ee38"
