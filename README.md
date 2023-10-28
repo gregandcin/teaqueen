@@ -1,5 +1,3 @@
-# WIP: This board is still being designed!
-
 # TeaQueen
 An Alice Inspired Split Keyboard
 
